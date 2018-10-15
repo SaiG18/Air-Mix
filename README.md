@@ -1,1 +1,2 @@
-# Air Mix
+# HackGMU
+Augmented Reality DJ System
