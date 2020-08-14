@@ -6,4 +6,9 @@
 
 ## [Demo](https://youtu.be/GbZg-hixRgg?t=20)
 
+## Built With
+
+- Python
+- Flask
+- LeapMotion Sensor
 
